@@ -18,7 +18,7 @@ const projects = () => {
                     <h2 className='text-2xl font-bold mb-2 font-custom'>Demand Supply Curve Using Manim Library in Python</h2>
                     <p className='text-grey-700 font-custom'>This project show how supply curve shift when the shock happened price has increase from P1 to P2 and quantity <br />has decreased from Q1 to Q2</p>
                     <a href="https://github.com/JINX23606/Manim-Supply-Curve.git" className="bg-blue-500 text-white font-bold py-2 px-4 mt-2 rounded-lg transition-transform transform hover:scale-105 hover:bg-blue-700 inline-block text-center mb-2" target="_blank" rel="noopener noreferrer font-custom">View Code</a>
-                    <img src="/figure_3.png" className='mt-2' alt="" />
+                    <img src="/figure_3.png" alt="" />
                 </div>
                 <div className='bg-white p-6 rounded-lg shadow-lg hover:scale-105 cursor-pointer duration-300 ease-out'>
                     <h2 className='text-2xl font-bold mb-2 font-custom'>Nonparametric Project</h2>
@@ -28,7 +28,7 @@ const projects = () => {
                 </div>
                 <div className='bg-white p-6 rounded-lg shadow-lg hover:scale-105 cursor-pointer duration-300 ease-out'>
                     <h2 className='text-2xl font-bold mb-2 font-custom'>Heal Jai Project</h2>
-                    <p className='text-grey-700 font-custom'>This project about "Heal Jai" mean to cure your heart by to anything that make you happy for a week by do that consistently and I'm as a editor of this video by using capcut</p>
+                    <p className='text-grey-700 font-custom'>This project about "Heal Jai" mean to cure your heart by do anything that make you happy for a week by do that consistently and I'm as a editor of this video by using capcut</p>
                     <iframe width="640" height="360" className="w-auto h-auto mt-3"src="https://www.youtube.com/embed/Qx7ZDJIRHYs?si=fTimJSPvwanWfMwt" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
                 </div>
                 </div>
