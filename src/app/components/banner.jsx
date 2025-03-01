@@ -3,7 +3,7 @@ import TypingEffect from './TypingEffect';
 
 const Banner = () => {
     return (
-        <div className="relative overflow-hidden bg-cover bg-center h-screen" style={{ backgroundImage: "url('/ink_about.jpg')" }}>
+        <div className="relative overflow-hidden bg-cover bg-center h-screen" style={{ backgroundImage: "url('/img/ink_about.JPG')" }}>
             <div className="absolute inset-0 bg-black opacity-50"></div>
             <div className="container mx-auto relative z-10 py-8 text-white ml-[100px] mt-[200px]">
                 <h1 className="text-5xl font-bold font-custom">Kitthapas Poolwong</h1>
