@@ -3,7 +3,7 @@ import React from 'react';
 const GalleryPage = () => {
   return (
     <div className="relative bg-cover bg-center min-h-screen bg-neutral-200">
-      <p className="text-black text-2xl mt-5 w-[850px] mb-3 ml-6 font-bold font-custom">Photo</p>
+      <p className="text-black text-2xl py-3 w-[850px] mb-3 ml-6 font-bold font-custom">Photo</p>
       <p className="text-black text-2xl mt-2 w-[850px] mb-1 ml-6 font-light font-custom">
         I love to take a photo so much, keep it as a good memory.
       </p>

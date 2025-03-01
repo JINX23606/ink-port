@@ -8,7 +8,7 @@ const Navbar = () => {
 
     return (
         <nav className="bg-black p-4">
-            <div className="w-full max-w-screen-xl mx-auto px-4 py-3 flex justify-between items-center">
+            <div className="w-full max-w-screen-xl mx-auto px-4  flex justify-between items-center">
                 <Link href="/" className="text-white text-2xl font-bold hover:scale-110 duration-300 hover:text-blue-500 font-custom">
                     Kitthapas
                 </Link>
