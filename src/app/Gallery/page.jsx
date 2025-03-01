@@ -14,10 +14,10 @@ const page = () => {
                     <img src="/img/20-img.jpg" className='w-full h-full'alt="" />
                 </div>
                 <div className='bg-white p-6 rounded-lg shadow-lg hover:scale-105 cursor-pointer duration-300 ease-out'>
-                    <img src="/img/03-img.jpg" className='w-full h-full'alt="" />
+                    <img src="/img/03-img.JPG" className='w-full h-full'alt="" />
                 </div>
                 <div className='bg-white p-6 rounded-lg shadow-lg hover:scale-105 cursor-pointer duration-300 ease-out'>
-                    <img src="/img/04-img.jpg" alt="" />
+                    <img src="/img/04-img.JPG" alt="" />
                 </div>
                 <div className='bg-white p-6 rounded-lg shadow-lg hover:scale-105 cursor-pointer duration-300 ease-out'>
                     <img src="/img/05-img.jpg" alt="" />
