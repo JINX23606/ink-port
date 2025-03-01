@@ -2,7 +2,7 @@ import React from 'react';
 
 const Projects = () => {
   return (
-    <div className="relative overflow-hidden bg-cover bg-center min-h-screen bg-neutral-200">
+    <div className="relative overflow-x-hidden bg-cover bg-center min-h-screen bg-neutral-200 w-full max-w-screen-xl mx-auto px-4">
       <h1 className="text-black text-3xl font-bold mt-5 ml-6 font-custom">Projects</h1>
       <p className="text-black text-2xl font-light mt-2 ml-6 w-full max-w-[500px] font-custom">
         This is my projects which I've do when I as a University Student
