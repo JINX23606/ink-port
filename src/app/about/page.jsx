@@ -2,7 +2,7 @@ import React from 'react'
 
 const About = () => {
   return (
-    <div className="relative overflow-hidden bg-cover bg-center min-h-screen" style={{ backgroundImage: "url('/ink_2.JPG')" }}>
+    <div className="relative overflow-hidden bg-cover bg-center w-full min-h-screen" style={{ backgroundImage: "url('/ink_2.JPG')" }}>
         <div className="absolute inset-0 bg-black opacity-50"></div>
         <div className="container mx-auto relative z-10 py-8 flex justify-end px-4">
             <div className="text-white text-left w-full md:w-1/2 lg:w-2/5 pr-8 md:pr-16 lg:pr-32">
