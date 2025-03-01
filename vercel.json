@@ -1,14 +1,21 @@
 {
-    "version": 2, 
+    "version": 2,
     "builds": [
       {
-        "src": "package.json",  
-        "use": "@vercel/next"   
+        "src": "package.json",
+        "use": "@vercel/next"  
       }
     ],
     "routes": [
       {
-        "src": "/fonts/(.*)",  
-        "dest": "/public/fonts/$1"
+        "src": "/fonts/(.*)",
+        "dest": "/public/fonts/$1"  
       }
-    ]}
+    ],
+    "env": {
+      "NEXT_PUBLIC_API_URL": "https://api.example.com"  
+    },
+    "github": {
+      "silent": true 
+    }
+  }
