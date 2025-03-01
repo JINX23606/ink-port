@@ -21,3 +21,7 @@
   font-family: 'SukhumvitSet';
   src: url(/fonts/SukhumvitSet-Medium.ttf) format('ttf'),
 }
+
+body {
+  overflow-x: hidden;
+}
