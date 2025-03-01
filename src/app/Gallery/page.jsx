@@ -2,8 +2,8 @@ import React from 'react';
 
 const GalleryPage = () => {
   return (
-    <div className="relative bg-neutral-200 min-h-screen overflow-x-hiddens">
-      <p className="text-black text-3xl font-bold mt-5 ml-6 font-custom">Photo</p>
+    <div className="relative bg-neutral-200 min-h-screen overflow-x-hidden">
+      <h1 className="text-black text-3xl font-bold mt-5 ml-6 font-custom">Photo</h1>
       <p className="text-black text-2xl font-light mt-2 ml-6 w-full max-w-[450px] font-custom">
         I love to take a photo so much, keep it as a good memory.
       </p>
