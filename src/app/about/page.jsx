@@ -5,7 +5,7 @@ const About = () => {
     <div className="relative overflow-hidden bg-cover bg-center min-h-screen" style={{ backgroundImage: "url('/ink_2.JPG')" }}>
         <div className="absolute inset-0 bg-black opacity-50"></div>
         <div className="container mx-auto relative z-10 py-8 flex justify-end px-4">
-            <div className="text-white text-right w-full md:w-1/2 lg:w-2/5 pr-8 md:pr-16 lg:pr-32">
+            <div className="text-white text-left w-full md:w-1/2 lg:w-2/5 pr-8 md:pr-16 lg:pr-32">
                 <h1 className="text-3xl sm:text-4xl font-bold text-yellow-400 font-custom">About Me 👦</h1>
                 <p className="mt-2 text-base sm:text-lg md:text-xl font-custom">
                     Hi, I am Kitthapas Poolwong, an Economics student at Kasetsart University with a passion for web development. <br /> This website is my very first project, built from scratch using Next.js and Tailwind CSS.
