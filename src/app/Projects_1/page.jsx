@@ -18,7 +18,7 @@ const projects = () => {
                     <h2 className='text-2xl font-bold mb-2 font-custom'>Demand Supply Curve Using Manim Library in Python</h2>
                     <p className='text-grey-700 font-custom'>This project show how supply curve shift when the shock happened price has increase from P1 to P2 and quantity <br />has decreased from Q1 to Q2</p>
                     <a href="https://github.com/JINX23606/Manim-Supply-Curve.git" className="bg-blue-500 text-white font-bold py-2 px-4 mt-2 rounded-lg transition-transform transform hover:scale-105 hover:bg-blue-700 inline-block text-center" target="_blank" rel="noopener noreferrer font-custom">View Code</a>
-                    <img src="/figure_3.png" alt="" />
+                    <img src="/figure_3.png" className='mt-2' alt="" />
                 </div>
                 <div className='bg-white p-6 rounded-lg shadow-lg hover:scale-105 cursor-pointer duration-300 ease-out'>
                     <h2 className='text-2xl font-bold mb-2 font-custom'>Nonparametric Project</h2>
