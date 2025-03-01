@@ -4,9 +4,10 @@ const Projects = () => {
   return (
     <div className="relative bg-neutral-200 min-h-screen overflow-x-hidden">
       <h1 className="text-black text-3xl font-bold mt-5 ml-6 font-custom">Projects</h1>
-      <p className="text-black text-2xl font-light mt-2 ml-6 w-full max-w-[450px] font-custom">
-        This is my projects which I've do when I as a University Student
-      </p>
+      <p className="text-black text-2xl font-light mt-2 mx-auto md:ml-6 w-full max-w-[450px] text-center md:text-left font-custom">
+  This is my projects which I've done as a University Student
+</p>
+
 
       <div className="container mx-auto p-6 mt-2">
         {/* 🔹 เปลี่ยน grid layout ให้ responsive */}
