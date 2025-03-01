@@ -31,7 +31,7 @@ const Navbar = () => {
 
             {/* Mobile Menu */}
             <div className={`md:hidden fixed top-0 left-0 w-full h-full bg-black bg-opacity-90 z-50 flex flex-col items-center justify-center transform ${isOpen ? "translate-x-0" : "translate-x-full"} transition-transform duration-300 ease-in-out`}>
-                <button onClick={() => setIsOpen(false)} className="absolute top-5 right-5 text-white text-4xl">
+                <button onClick={() => setIsOpen(false)} className="absolute top-5 right-5 text-white text-4xl font-bold font-custom">
                     <FiX />
                 </button>
                 <NavLink href="/" text="Home" onClick={() => setIsOpen(false)} />
