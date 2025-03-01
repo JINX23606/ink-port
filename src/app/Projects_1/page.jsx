@@ -4,7 +4,7 @@ const Projects = () => {
   return (
     <div className="relative bg-neutral-200 min-h-screen overflow-x-hidden">
       <h1 className="text-black text-3xl font-bold mt-5 ml-6 font-custom">Projects</h1>
-      <p className="text-black text-2xl font-light mt-2 ml-6 w-full max-w-[450px] font-custom mr-3">
+      <p className="text-black text-2xl font-light mt-2 ml-6 w-full max-w-[450px] font-custom">
         This is my projects which I've do when I as a University Student
       </p>
 
