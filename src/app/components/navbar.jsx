@@ -1,3 +1,4 @@
+'use client'
 import React, { useState } from 'react';
 import { FiMenu, FiX } from 'react-icons/fi'; // ใช้ไอคอนจาก react-icons
 
