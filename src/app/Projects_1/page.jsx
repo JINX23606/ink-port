@@ -99,7 +99,7 @@ const Projects = () => {
             >
               View Code
             </a>
-            <img src="/figure_3.png" alt="Project 2" className="mt-3" />
+            <img src="/figure_4.png" alt="Project 2" className="mt-3" />
           </div>
         </div>
       </div>
