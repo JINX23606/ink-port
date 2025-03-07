@@ -93,7 +93,7 @@ const Projects = () => {
             </p>
             <a
               href="https://github.com/JINX23606/R-Project.git"
-              className="bg-blue-500 text-white font-bold py-2 px-4 mt-2 rounded-lg hover:scale-105 hover:bg-blue-700 inline-block text-center"
+              className="bg-blue-500 text-white font-bold py-2 px-4 mt-4 rounded-lg hover:scale-105 hover:bg-blue-700 inline-block text-center"
               target="_blank"
               rel="noopener noreferrer"
             >
