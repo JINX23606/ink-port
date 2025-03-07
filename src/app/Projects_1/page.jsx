@@ -82,7 +82,7 @@ const Projects = () => {
             ></iframe>
           </div>
           
-          <div className="bg-white p-6 rounded-lg shadow-lg hover:scale-105 cursor-pointer duration-300 ease-out">
+          <div className="bg-white p-6 rounded-lg shadow-lg hover:scale-105 cursor-pointer duration-300 ease-out mt-3">
             <h2 className="text-2xl font-bold mb-2 font-custom">Project Title: Sleep Quality Prediction</h2>
             <p className="text-gray-700 font-custom">
             This project aims to develop a predictive model for sleep quality based on various 
@@ -93,7 +93,7 @@ const Projects = () => {
             </p>
             <a
               href="https://github.com/JINX23606/R-Project.git"
-              className="bg-blue-500 text-white font-bold py-2 px-4 mt-4 rounded-lg hover:scale-105 hover:bg-blue-700 inline-block text-center"
+              className="bg-blue-500 text-white font-bold py-2 px-4 mt-2 rounded-lg hover:scale-105 hover:bg-blue-700 inline-block text-center"
               target="_blank"
               rel="noopener noreferrer"
             >
