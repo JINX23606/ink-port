@@ -81,6 +81,26 @@ const Projects = () => {
               allowFullScreen
             ></iframe>
           </div>
+          
+          <div className="bg-white p-6 rounded-lg shadow-lg hover:scale-105 cursor-pointer duration-300 ease-out">
+            <h2 className="text-2xl font-bold mb-2 font-custom">Project Title: Sleep Quality Prediction</h2>
+            <p className="text-gray-700 font-custom">
+            This project aims to develop a predictive model for sleep quality based on various 
+            lifestyle and health-related factors. The dataset includes attributes such as sleep 
+            duration, stress level, daily steps, occupation, and heart rate. A regression model 
+            was trained to estimate sleep quality, achieving a Root Mean Square Error (RMSE) of 0.2696, 
+            indicating a fairly accurate prediction.
+            </p>
+            <a
+              href="https://github.com/JINX23606/R-Project.git"
+              className="bg-blue-500 text-white font-bold py-2 px-4 mt-2 rounded-lg hover:scale-105 hover:bg-blue-700 inline-block text-center"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              View Code
+            </a>
+            <img src="/figure_3.png" alt="Project 2" className="mt-3" />
+          </div>
         </div>
       </div>
     </div>
