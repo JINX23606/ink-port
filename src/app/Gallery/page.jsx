@@ -1,4 +1,5 @@
 import React from 'react';
+import Image from "next/image";
 
 const GalleryPage = () => {
   return (
@@ -19,6 +20,14 @@ const GalleryPage = () => {
           ].map((img, index) => (
             <div key={index} className="bg-white p-6 rounded-lg shadow-lg hover:scale-105 cursor-pointer duration-300 ease-out">
               <img src={`/img/${img}`} className="w-full h-full object-cover" alt={`Gallery ${index + 1}`} />
+              <Image
+        src={`/img/${img}`}
+        alt={`Gallery ${index + 1}`}
+        width={400}      // กำหนดขนาดเพื่อช่วยให้ optimize ได้เต็มที่
+        height={300}
+        className="w-full h-full object-cover rounded-lg"
+      />
+
             </div>
           ))}
         </div>
