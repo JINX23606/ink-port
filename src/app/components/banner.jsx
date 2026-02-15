@@ -19,7 +19,7 @@ const Banner = () => {
                     <a href="https://github.com/JINX23606" className="text-gray-300 hover:text-blue-300" target="_blank" rel="noopener noreferrer">
                         <i className="fab fa-github fa-2x"></i>
                     </a>
-                    <a href="https://www.instagram.com/lnkrit.p/" className="text-gray-300 hover:text-blue-300" target="_blank" rel="noopener noreferrer">
+                    <a href="https://www.instagram.com/lnkrit.p?igsh=MWhtM3E0N2hxZHhyNQ%3D%3D&utm_source=qr" className="text-gray-300 hover:text-blue-300" target="_blank" rel="noopener noreferrer">
                         <i className="fab fa-instagram fa-2x"></i>
                     </a>
                 </div>
