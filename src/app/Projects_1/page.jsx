@@ -100,6 +100,7 @@ const Projects = () => {
               View Code
             </a>
             <img src="/figure_4.png" alt="Project 2" className="mt-3" />
+            <h1>Hi</h1>
           </div>
         </div>
       </div>
